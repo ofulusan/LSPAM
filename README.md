@@ -1,3 +1,5 @@
+#下記、本家コードです。
+
 # Login-System-PHP-and-MYSQL
 Login System Using PHP and MYSQL
 
